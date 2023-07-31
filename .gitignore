@@ -1,0 +1,4 @@
+config.properties
+screenshots/*
+src/main/java/com/stashed/qa/config/config.properties
+test-output/

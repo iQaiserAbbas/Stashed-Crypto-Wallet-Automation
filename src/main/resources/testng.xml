@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Stashed" verbose="1">
+
+	<test name="Stashed Wallet Test Cases">
+		<classes>
+			<class name="com.stashed.qa.testcases.CreateNewWalletTest"></class>
+			<class name="com.stashed.qa.testcases.CreateAccountTest"></class>
+			<class name="com.stashed.qa.testcases.ImportAccountTest"></class>
+
+		</classes>
+	</test>
+</suite>
